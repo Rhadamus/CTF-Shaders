@@ -18,6 +18,8 @@ void main() {
 //@End
 
 //@Begin_fragment
+// 19/08/2023: fix fPixelHeight in build 295
+
 #ifdef GL_ES
     precision mediump float;
 #endif
